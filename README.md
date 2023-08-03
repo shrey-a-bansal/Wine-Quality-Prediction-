@@ -1,7 +1,5 @@
 # Wine Quality Prediction Project
 
-![Wine Bottles](wine.jpg)
-
 Welcome to the Wine Quality Prediction Project! This repository contains code and resources for building a machine learning model to predict the quality of wines based on various features.
 
 ## Dataset
@@ -12,7 +10,6 @@ The dataset used in this project is the [Wine Quality Dataset](https://www.kaggl
 
 - `winequality.csv`: The dataset file in CSV format.
 - `wine_quality_prediction.ipynb`: Jupyter Notebook containing the Python code for the project.
-- `wine.jpg`: Image used in the README.
 
 ## Approach
 
