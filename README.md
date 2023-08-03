@@ -20,13 +20,9 @@ The project utilizes a linear regression model to predict wine quality based on 
 
 ## How to Use
 
-1. Clone this repository:
+1. Clone this repository: [https://github.com/shrey-a-bansal/wine-quality-prediction](https://github.com/shrey-a-bansal/Wine-Quality-Prediction-.git)
 
-https://github.com/shrey-a-bansal/wine-quality-prediction.git
-
-2. Navigate to the project directory:
-
-cd wine-quality-prediction
+2. Navigate to the project directory: cd wine-quality-prediction
 
 3. Open and run the Jupyter Notebook `wine_quality_prediction.ipynb` to see the step-by-step process.
 
